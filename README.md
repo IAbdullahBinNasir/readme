@@ -30,7 +30,7 @@ Custom Extended Trends allows traders to visualize and track extended trends bey
 
 Each indicator and strategy comes with a visual example to demonstrate how it looks on a chart. Here are the images showcasing the application of each tool:
 
-- Candlestick Counter: ![Candlestick Counter](/candlestick-counter.png)
+- Candlestick Counter: ![Candlestick Counter]    (/candlestick-counter.png)
 - Chart Pattern Detection: ![Chart Pattern Detection](/chart-pattern-detection.png)
 - Trend Projection: ![Trend Projection](/trend-projection.png)
 - Profit Plus Pro: ![Profit Plus Pro](/profit-plus-pro.png)
